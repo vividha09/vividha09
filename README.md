@@ -1,7 +1,7 @@
 # hieee, I'm Vividha Jagtap 👋
 
 # 💫 About Me:
-I am a second-year engineering student, pursuing my B.tech in Artificial Intelligence and Machine Learning. <br>
+I am a third-year engineering student, pursuing my B.tech in Artificial Intelligence and Machine Learning. <br>
 
 
 ## 🌐 Socials:
