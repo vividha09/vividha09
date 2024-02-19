@@ -1,4 +1,4 @@
-# hieee, I'm Vividha Jagtap 👋
+# hieee, I'm vividha jagtap 👋
 
 # 💫 About Me:
 I am a third-year engineering student, pursuing my B.tech in Artificial Intelligence and Machine Learning. <br>
